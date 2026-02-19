@@ -16,8 +16,8 @@
 
     <!--meta names-->
                 <meta name="description" content="Apuesta En Vivo en Liga MX, La Liga, Champions League, MLB, NFL y NBA. Streaming de más 150,000 eventos de deportes online al año.">
-                <meta name="google-site-verification" content="T1PRaFiD-0pxj2VNU2fn9lpakaJeWX5mk9G7RrORzDI">
-                <meta name="facebook-domain-verification" content="yjbxpc0t9y092e1l564lpbrpv6sgbi">
+                <meta name="google-site-verification" jf-1-dkjyktog-dmk-jwmuvlk-Oo5mdtb6oxkyvaxf8"
+                
     
     <!--meta properties-->
     <meta property="og:type" content="website">

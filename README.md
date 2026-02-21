@@ -25,7 +25,7 @@
                 <meta property="og:title" content="Casa de Apuestas Deportivas en vivo y Casino Online | Caliente.mx">
                 <meta property="og:description" content="Apuesta En Vivo en Liga MX, La Liga, Champions League, MLB, NFL y NBA. Disfruta el streaming de más 150,000 eventos al año. Patrocinador Oficial de Club América, Chivas, Cruz Azul, Santos, León, Morelia. Apuesta en Deportes.">
                 <meta property="og:image" content="/ofertas/assets/images/caliente-icon.png?v=1694107114">
-                <meta property="fb:app_id" content="1408698396126159">
+                <meta property="google-site-verification= "jf-1-dkjyktog-dmk-jwmuvlk-Oo5mdtb6oxkyvaxf8"
     
 
     <style>
